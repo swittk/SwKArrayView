@@ -14,3 +14,7 @@ Optional
 
 - (void)arrayView:(SwKArrayView *)arrayView selectedItemAtIndex:(NSInteger)index;
   - This is only called when the property "shouldAddTouchGestureRecognizer" is set to YES
+
+
+# Supported iOS version
+- Any version with ARC (iOS 5, iOS 6, iOS 7, and later)
